@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>AllNotes</Entry>
+    <Name>
+        <English>AllNotes</English>
+        <rus-RU>Замечатор</rus-RU>
+    </Name>
+    <Vendor>Evgenii Dobrovidov</Vendor>
+    <Description>Amazingly simple yet outstandingly powerful note-taking application.</Description>
+    <Icons>
+        <MainMenu>AllNotes.png<Type1>AllNotes.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
